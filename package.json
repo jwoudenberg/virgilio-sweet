@@ -1,0 +1,14 @@
+{
+  "name": "virgilio-sweet",
+  "version": "0.1.0",
+  "description": "Macro's for Virgilio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sweet-macros"
+  ],
+  "author": "Jasper Woudenberg",
+  "license": "MIT"
+}
